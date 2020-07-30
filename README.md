@@ -1,2 +1,2 @@
 # python
-python code I developed
+This repository is for python code I developed.
