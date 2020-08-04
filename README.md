@@ -6,6 +6,7 @@ the youtube video I watched before is https://www.youtube.com/watch?v=nhNq2kIvi9
 the one mom recommended is https://www.youtube.com/watch?v=jYvkMv7LzCw&list=RDCMUCvzlnZbePin9kH-1JCKBt8Q&index=2
 1.5 recall how to make ur own webpage on safari
 i think i've done the localhost here: https://www.youtube.com/watch?v=BPo6BDvaAQo
+This doesn't seem to match what I had done at AIHacks :( I wonder if there is any way to retrieve the info and process I took back then.
 2. brainstorm project ideas (techwithtim had some ideas to start)
 * atari games
 * mom's idea of stocks
