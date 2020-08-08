@@ -17,4 +17,5 @@ This doesn't seem to match what I had done at AIHacks :( I wonder if there is an
 note: pong.py and hangman.py work!
 
 
-8/7/20 - learned what modules and importing them and pypi are yesterday. 
+8/7/20 - learned what modules and importing them and pypi are yesterday.
+8/8/20 - plans to learn more hopefully and leetcode projects?? or watch vids i have saved
