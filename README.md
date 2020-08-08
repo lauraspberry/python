@@ -15,3 +15,6 @@ This doesn't seem to match what I had done at AIHacks :( I wonder if there is an
 4. work on projects! :)
 
 note: pong.py and hangman.py work!
+
+
+8/7/20 - learned what modules and importing them and pypi are yesterday. 
