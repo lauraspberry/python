@@ -20,3 +20,4 @@ note: pong.py and hangman.py work!
 8/7/20 - learned what modules and importing them and pypi are yesterday.
 8/8/20 - plans to learn more hopefully and leetcode projects?? or watch vids i have saved
 8/9/20 - csk first day woot
+8/21/20 - working on github labs
