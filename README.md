@@ -21,3 +21,5 @@ note: pong.py and hangman.py work!
 8/8/20 - plans to learn more hopefully and leetcode projects?? or watch vids i have saved
 8/9/20 - csk first day woot
 8/21/20 - working on github labs
+8/22/20 - completed github lab on jekyll
+8/23 - bday for days
