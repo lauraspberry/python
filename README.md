@@ -23,3 +23,4 @@ note: pong.py and hangman.py work!
 8/21/20 - working on github labs
 8/22/20 - completed github lab on jekyll
 8/23 - bday for days
+8/26 - first day oml not ready pls help
