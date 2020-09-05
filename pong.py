@@ -1,7 +1,7 @@
 import turtle
 
 wn = turtle.Screen()
-wn.title("Pong by Laura, from @TokyoEdTech")
+wn.title("Pong! written by Laura")
 wn.bgcolor("black")
 wn.setup(width=800, height=600)
 wn.tracer(0)
