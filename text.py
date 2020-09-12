@@ -1,5 +1,8 @@
 from py_imessage import imessage
-from time import sleep
 
-phone = 6262029474
+phone = "6262029474"
+
+if not imessage.check_compatibility(phone):
+    print("Not an iPhone")
+
 imessage.send(phone, "hey hey i'm hungry")
