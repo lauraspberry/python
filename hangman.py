@@ -10,7 +10,7 @@ winHeight = 480
 winWidth = 700
 win=pygame.display.set_mode((winWidth,winHeight))
 #---------------------------------------#
-# initialize global variables/constants #
+# initialize global variables and constants #
 #---------------------------------------#
 BLACK = (0,0, 0)
 WHITE = (255,255,255)
