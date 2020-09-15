@@ -1,6 +1,6 @@
 from py_imessage import imessage
 
-phone = "6262029474"
+phone = "CENSORED (usually just put in 10 digit string of nums)"
 
 if not imessage.check_compatibility(phone):
     print("Not an iPhone")
