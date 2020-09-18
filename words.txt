@@ -1,3 +1,4 @@
+#these are phrases that can show up as options for hangman
 the big bang
 the pillow feels soft
 odd one out
