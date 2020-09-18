@@ -3,7 +3,8 @@ This repository is for python code I developed.
 
 Contents: 
 * Hangman Game and Assets (uses python turtle)
-* 
+* Texting Program (sends iMessages automatically)
+* Tester Files (just me playing around with python)
 
 steps to learn more coding:
 1. learn more about github 
