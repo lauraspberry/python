@@ -6,6 +6,10 @@ Contents:
 * Texting Program (sends iMessages automatically)
 * Tester Files (just me playing around with python)
 
+New ideas: 
+* chrome extension youtube (distraction free) 
+* build off of imessage
+
 steps to learn more coding:
 1. learn more about github 
 2. brainstorm project ideas 
