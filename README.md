@@ -18,3 +18,4 @@ steps to learn more coding:
 bonus: github tutorials have been very helpful (:
 
 update: hack month info!
+-> react, firebase, nodejs
